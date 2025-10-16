@@ -9,7 +9,7 @@ Built with **TensorFlow & Keras**, this model is lightweight, fast, and optimize
 
 ## 🧠 Tech Stack  
 | Category | Tools / Libraries |
-|-----------|------------------|-
+|-----------|------------------|
 | 💻 Language | Python |
 | 🧰 Framework | TensorFlow, Keras |
 | 🧪 Model | MobileNet (Pre-trained CNN) |

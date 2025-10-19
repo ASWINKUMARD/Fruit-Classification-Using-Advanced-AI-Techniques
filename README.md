@@ -43,4 +43,8 @@ Built with **TensorFlow & Keras**, this model is lightweight, fast, and optimize
 
 📱 Build a mobile version using TensorFlow Lite
 
-💬 Developed by Aswin Kumar D
+### 👨‍💻 Author
+
+**Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
